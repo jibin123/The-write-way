@@ -13,6 +13,8 @@ import pickle
 
 app = Flask(__name__)
 
+#dkmfgdlkmgdlkfgmdlkgmdf
+
 def load_model(bin_dir):
     ''' Load model from .yaml and the weights from .h5
 
